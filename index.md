@@ -3,9 +3,9 @@ layout: cv
 title: Melvin Donaldson's CV
 ---
 # Melvin Donaldson
-Clinical Assistant Professor of Emergency Medicine</n>
-Division of Emergency Medical Services</n>
-University of Iowa Health Care</n>
+<n>Clinical Assistant Professor of Emergency Medicine
+<n>Division of Emergency Medical Services
+<n>University of Iowa Health Care
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
