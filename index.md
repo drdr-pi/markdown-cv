@@ -3,7 +3,9 @@ layout: cv
 title: Melvin Donaldson's CV
 ---
 # Melvin Donaldson
-EMS Physician, EM Physician, researcher.
+Clinical Assistant Professor of Emergency Medicine
+DIvision of Emergency Medical Services
+University of Iowa Health Care
 
 <div id="webaddress">
 <a href="melvin-donaldson@uiowa.edu">melvin-donaldson@uiowa.edu</a>
@@ -13,7 +15,6 @@ EMS Physician, EM Physician, researcher.
 
 ## EDUCATIONAL AND PROFESSIONAL HISTORY
 
-Standing on the shoulders of giants
 
 ### Institutions attended
 
